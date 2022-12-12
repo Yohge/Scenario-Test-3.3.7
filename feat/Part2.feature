@@ -4,5 +4,5 @@ Feature: Scenario
    Given I execute before step
 
  @Test
- Scenario: Scenario 
+ Scenario: Scenario edit from github
    Given I use the parameterized step of "Scenario 1"
